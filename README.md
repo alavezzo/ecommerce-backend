@@ -25,7 +25,7 @@
   5. Disconnect from server and run npm seed to seed your newly created tables. 
   6. Set force to false and reconnect to server. 
   Watch this walkthrough video for a demonstration of all apiRoutes:
-  https://drive.google.com/file/d/1IvNkRLXbuj4e9_naCJlJ9p22eDDc0uga/view (Links to an external site.)
+  https://drive.google.com/file/d/15xEHqRMTN_NpiLM0MyTrETSuerdOYJRj/view
     
   ## Questions 
   Link to my GitHub: [github.com/alavezzo](https://github.com/alavezzo)
